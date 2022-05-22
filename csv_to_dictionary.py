@@ -30,7 +30,7 @@ def csvtodict(csvfile):
         mainlist.append(dict(i))
 
     #/- returning the final list of dictionaries for further use in-program
-    return mainlist
+    return mainlist 
 
 
 '''
